@@ -65,6 +65,79 @@ Path examples:
 ### 8 — Additional Context  
 Any logs, mods, launch flags, recent hardware changes, or other info that might help.
 
+## 🐞 Bug Report — Help Us Squash It!
+
+Thank you for taking the time to file a bug.  
+We’re an all‑volunteer team, so the more detail you give, the faster we can fix things.
+
+---
+
+### 1 — Duplicate Check  
+*Have you searched for an existing issue?*  
+- [ ] Yes, I found none.
+
+---
+
+### 2 — Bug Summary  
+**Describe the problem in one or two sentences.**  
+> _“When docking with the Mint‑Nitro station, the game freezes for 3 seconds and the UI flickers.”_
+
+---
+
+### 3 — Steps to Reproduce  
+Numbered, minimal, and deterministic.
+
+1. Launch the game and load `autosave‑3`.  
+2. Fly to **Mint‑Nitro Station** in the `Frost Belt` system.  
+3. Press **D** to dock.  
+4. ~~Profit~~ → _Freeze + UI flicker._
+
+---
+
+### 4 — Expected vs. Actual  
+|   | Expected | Actual |
+|:-:|----------|--------|
+| **Game flow** | Instant dock animation | 3‑second freeze |
+| **UI** | Stable HUD | Flickers twice |
+
+---
+
+### 5 — Visual Evidence  
+- [ ] Screenshot attached  
+- [ ] Screen‑recording link: <https://…>
+
+*(Visual bugs without an image are likely to be delayed.)*
+
+---
+
+### 6 — Save File  
+Path examples:  
+- **Windows:** `%APPDATA%\endless-sky\saves`  
+- **Linux:** `~/.local/share/endless-sky/saves`  
+- **macOS:** `~/Library/Application Support/endless-sky/saves`
+
+> _Attach the relevant `.txt` save or host it (Gist / Pastebin) and paste the link._
+
+---
+
+### 7 — Environment  
+| Item | Value |
+|------|-------|
+| **OS** | Windows 10 Pro 20H2 (Build 19042.1466) |
+| **Source** | Steam |
+| **Game version / commit** | `v0.9.14` / commit `cab74fd3` |
+
+---
+
+### 8 — Additional Context  
+Any logs, mods, launch flags, recent hardware changes, or other info that might help.
+
+---
+
+_Thanks again!_  
+*— The Endless Sky volunteer dev team*
+
+
 ---
 
 _Thanks again!_  
