@@ -9,7 +9,7 @@ body:
   - type: input
     attributes:
       label: Location
-      description: Where the issue is.
+      description: Where the issue is and feedback.
       placeholder: wiki, style guide, etc.
     validations:
       required: true
